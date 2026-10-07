@@ -3,5 +3,3 @@
 # (usually in src/host/loader_services.cpp) before the game will start.
 # symbol | needed by
 SoundOGG::RampOGGVolume(SoundOGG*, int, int, bool) | beer_pong.so
-SoundOGG::PlayOGG(char*, unsigned short, int) | beer_pong.so
-SoundOGG::StopOGG(SoundOGG*) | beer_pong.so
